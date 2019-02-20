@@ -26,7 +26,7 @@ public class ShapeCollector {
 
     public void addFigure(Shape shape) {
 
-        shapes.add((Shape) shape);
+        shapes.add(shape);
     }
 
     public boolean removeFigure(Shape shape) {

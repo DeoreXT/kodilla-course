@@ -28,11 +28,11 @@ public class ShapeCollectorTestSuite {
         Square s = new Square(7);
         //When
         sc.addFigure(s);
-        Class expected = sc.getClass();
+        Class expected = s.getClass();
         Class result = sc.getFigure(0).getClass();
         //Then
-        Assert.assertTrue(result.getName() == result.getName());
-        Assert.assertEquals(expected.getName(), result.getName());
+        Assert.assertTrue(expected.equals(result));
+        //Assert.assertEquals(expected.getName(), result.getName());
     }
     @Test
     public void testRemoveFigure() {

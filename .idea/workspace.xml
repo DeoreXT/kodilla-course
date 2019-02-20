@@ -2,50 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f96bc04-3c9b-4ed8-aa2d-23c076e38576" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/kodilla-course-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/kodilla-course-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-stream/out/test/classes/com/kodilla/stream/forum/ForumUserTestSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-stream/out/test/classes/com/kodilla/stream/invoice/simple/SimpleInvoiceTestSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-stream/out/test/classes/com/kodilla/stream/sand/SandStorageTestSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/world/WorldTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/world/WorldTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/build/classes/java/main/com/kodilla/testing/TestingMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/build/classes/java/main/com/kodilla/testing/TestingMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/build/libs/kodilla-testing-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/build/libs/kodilla-testing-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumComment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/AdvStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/AdvStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/test/classes/com/kodilla/testing/shape/ShapeCollectorTestSuite.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/Temperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/WeatherForecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/WeatherForecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/statistics/AdvStatisticsTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/statistics/AdvStatisticsTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/tdd/ForumTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/tdd/ForumTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/mock/WeatherForecastTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/mock/WeatherForecastTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/stub/TemperaturesStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/stub/TemperaturesStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/stub/WeatherForecastTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/stub/WeatherForecastTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -101,81 +67,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/Country.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/Continent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/world/WorldTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/ForumTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/tdd/ForumTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/statistics/AdvStatisticsTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -184,11 +75,66 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -210,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/triangle.java" />
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" />
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" />
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/shape/ShapeCollectorTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/Temperatures.java" />
@@ -224,7 +166,6 @@
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/Statistics.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/mock/WeatherForecastTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/build.gradle" />
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/AdvStatistics.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/statistics/AdvStatisticsTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/lambda/SaySomething.java" />
@@ -261,6 +202,11 @@
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/Continent.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/world/WorldTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" />
       </list>
     </option>
   </component>
@@ -440,7 +386,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550683167827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550684693278" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -457,22 +403,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WorldTestSuite">
-    <configuration name="ForumUserTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-stream_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.stream.forum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.stream.forum" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.stream.forum.ForumUserTestSuite" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ShapeCollectorTestSuite.testAddFigure">
     <configuration name="SandStorageTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla-stream_test" />
       <extension name="coverage">
@@ -488,17 +419,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInvoiceTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-stream_test" />
+    <configuration name="ShapeCollectorTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-testing_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.stream.invoice.simple.*" />
+          <option name="PATTERN" value="com.kodilla.testing.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.stream.invoice.simple" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.stream.invoice.simple.SimpleInvoiceTestSuite" />
+      <option name="PACKAGE_NAME" value="com.kodilla.testing.shape" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.shape.ShapeCollectorTestSuite" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeCollectorTestSuite.testAddFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.testing.shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.testing.shape" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing.shape.ShapeCollectorTestSuite" />
+      <option name="METHOD_NAME" value="testAddFigure" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -540,11 +487,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShapeCollectorTestSuite.testAddFigure" />
+        <item itemvalue="JUnit.ShapeCollectorTestSuite" />
         <item itemvalue="JUnit.WorldTestSuite" />
         <item itemvalue="JUnit.WorldTestSuite.testGetPeopleQuantity" />
         <item itemvalue="JUnit.SandStorageTestSuite" />
-        <item itemvalue="JUnit.SimpleInvoiceTestSuite" />
-        <item itemvalue="JUnit.ForumUserTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -561,20 +508,11 @@
       <workItem from="1549964546894" duration="6277000" />
       <workItem from="1550086548776" duration="34225000" />
       <workItem from="1550332543312" duration="57981000" />
-      <workItem from="1550680967589" duration="2197000" />
+      <workItem from="1550680967589" duration="3716000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WeatherForecastTestSuite_(1) - 2019.02.16 at 16h 44m 01s.xml">
-      <configuration name="WeatherForecastTestSuite (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShapeCollectorTestSuite - 2019.02.16 at 16h 57m 38s.xml">
-      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WeatherForecastTestSuite_(1) - 2019.02.16 at 17h 02m 26s.xml">
-      <configuration name="WeatherForecastTestSuite (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ForumUserTestSuite - 2019.02.19 at 13h 03m 00s.xml">
       <configuration name="ForumUserTestSuite" configurationId="JUnit" />
     </history-entry>
@@ -596,14 +534,24 @@
     <history-entry file="SandStorageTestSuite - 2019.02.19 at 21h 08m 42s.xml">
       <configuration name="SandStorageTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 18h 24m 43s.xml">
+      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite_testAddFigure - 2019.02.20 at 18h 26m 14s.xml">
+      <configuration name="ShapeCollectorTestSuite.testAddFigure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 18h 27m 07s.xml">
+      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100680000" />
+    <option name="totallyTimeSpent" value="102199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28895614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -612,15 +560,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" weight="0.31096563" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49546143" weight="0.31096563" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5045386" side_tool="true" weight="0.31096563" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4871407" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -635,6 +583,39 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Database" order="9" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28895614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49546143" weight="0.31096563" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5045386" side_tool="true" weight="0.31096563" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.4871407" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -644,36 +625,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/mock/WeatherForecastTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#554#571#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumComment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1091,6 +1042,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1100,8 +1080,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

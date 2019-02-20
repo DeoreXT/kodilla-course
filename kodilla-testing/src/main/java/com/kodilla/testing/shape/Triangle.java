@@ -7,7 +7,7 @@ public class Triangle implements Shape{
     private int sideB;
     private int sideC;
 
-    public Triangle(int sideA, int sideB, int sideC) {
+    public void Triangle(int sideA, int sideB, int sideC) {
         this.sideA = sideA;
         this.sideB = sideB;
         this.sideC = sideC;
