@@ -41,11 +41,10 @@ public class ShapeCollectorTestSuite {
         Square s = new Square(7);
         sc.addFigure(s);
         //When
-        boolean result = sc.removeFigure(s);
-        ArrayList<Shape> shape = sc.showFigures();
+        boolean result = sc.removeFigure(0);
         //Then
-        Assert.assertEquals(0, shape.size());
         Assert.assertTrue(result);
+
     }
     @Test
     public void testGetFigure() {
@@ -56,8 +55,7 @@ public class ShapeCollectorTestSuite {
         //When
         Square result = (Square)sc.getFigure(0);
         //Then
-        Assert.assertNotNull(result);
-        Assert.assertSame(s, result);
+        Assert.assertTrue(result.equals(s));
     }
     @Test
     public void testShowFigures() {
@@ -70,8 +68,8 @@ public class ShapeCollectorTestSuite {
         sc.addFigure(t);
         sc.addFigure(c);
         //When
-        ArrayList<Shape> result = sc.showFigures();
+        boolean result = sc.showFigures();
         //Then
-        Assert.assertEquals(sc, result);
+        Assert.assertTrue(result);
     }
 }

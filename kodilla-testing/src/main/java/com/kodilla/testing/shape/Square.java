@@ -3,7 +3,8 @@ package com.kodilla.testing.shape;
 public class Square implements Shape {
     int sideA;
 
-    public void Square(int sideA) {
+
+    public Square(int sideA) {
         this.sideA = sideA;
     }
 

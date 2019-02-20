@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ShapeCollector {
     private ArrayList<Shape> shapes;
 
-    public void ShapeCollector() {
+    public ShapeCollector() {
         this.shapes = new ArrayList<Shape>();
     }
 
@@ -25,19 +25,22 @@ public class ShapeCollector {
     }
 
     public void addFigure(Shape shape) {
-
         shapes.add(shape);
     }
 
-    public boolean removeFigure(Shape shape) {
-        return false;
+    public boolean removeFigure(int i) {
+        shapes.remove(i);
+        return true;
     }
 
     public Shape getFigure(int n) {
         return shapes.get(n);
     }
 
-    public ArrayList<Shape> showFigures() {
-        return shapes;
+    public boolean showFigures() {
+        for (Shape s: shapes) {
+            System.out.println(s.getShapeName() + ", field: " + s.getField());
+        }
+        return true;
     }
 }

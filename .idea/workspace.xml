@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f96bc04-3c9b-4ed8-aa2d-23c076e38576" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/out/production/classes/com/kodilla/testing/shape/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -71,21 +77,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="147">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding>
                 <element signature="e#518#519#0" expanded="true" />
                 <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="765">
+              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
@@ -101,17 +109,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
+                <element signature="e#125#126#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
               </folding>
             </state>
@@ -122,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding>
                 <element signature="e#346#347#0" expanded="true" />
                 <element signature="e#379#380#0" expanded="true" />
@@ -134,8 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="153">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -157,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/shape/ShapeCollectorTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/Temperatures.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/WeatherForecast.java" />
@@ -203,11 +215,12 @@
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/Continent.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/world/WorldTestSuite.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" />
         <option value="$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" />
-        <option value="$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" />
       </list>
     </option>
   </component>
@@ -249,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550685119179" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550687048088" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -266,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShapeCollectorTestSuite.testAddFigure">
+  <component name="RunManager" selected="JUnit.ShapeCollectorTestSuite">
     <configuration name="SandStorageTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla-stream_test" />
       <extension name="coverage">
@@ -350,8 +363,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ShapeCollectorTestSuite.testAddFigure" />
         <item itemvalue="JUnit.ShapeCollectorTestSuite" />
+        <item itemvalue="JUnit.ShapeCollectorTestSuite.testAddFigure" />
         <item itemvalue="JUnit.WorldTestSuite" />
         <item itemvalue="JUnit.WorldTestSuite.testGetPeopleQuantity" />
         <item itemvalue="JUnit.SandStorageTestSuite" />
@@ -371,23 +384,11 @@
       <workItem from="1549964546894" duration="6277000" />
       <workItem from="1550086548776" duration="34225000" />
       <workItem from="1550332543312" duration="57981000" />
-      <workItem from="1550680967589" duration="4250000" />
+      <workItem from="1550680967589" duration="6167000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ForumUserTestSuite - 2019.02.19 at 13h 03m 00s.xml">
-      <configuration name="ForumUserTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ForumUserTestSuite - 2019.02.19 at 13h 11m 46s.xml">
-      <configuration name="ForumUserTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ForumUserTestSuite - 2019.02.19 at 13h 11m 52s.xml">
-      <configuration name="ForumUserTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleInvoiceTestSuite - 2019.02.19 at 20h 40m 18s.xml">
-      <configuration name="SimpleInvoiceTestSuite" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SimpleInvoiceTestSuite - 2019.02.19 at 20h 41m 32s.xml">
       <configuration name="SimpleInvoiceTestSuite" configurationId="JUnit" />
     </history-entry>
@@ -406,15 +407,27 @@
     <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 18h 27m 07s.xml">
       <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 18h 59m 12s.xml">
+      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 19h 00m 22s.xml">
+      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 19h 06m 27s.xml">
+      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShapeCollectorTestSuite - 2019.02.20 at 19h 16m 42s.xml">
+      <configuration name="ShapeCollectorTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102733000" />
+    <option name="totallyTimeSpent" value="104650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,10 +442,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5045386" side_tool="true" weight="0.31096563" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4871407" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.4871407" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -890,10 +903,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
             <element signature="e#346#347#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
@@ -903,43 +930,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="153">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
+            <element signature="e#125#126#0" expanded="true" />
             <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="765">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
@@ -953,9 +976,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
