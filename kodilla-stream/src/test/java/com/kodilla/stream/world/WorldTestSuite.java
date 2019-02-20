@@ -36,13 +36,13 @@ public class WorldTestSuite {
         World world = new World();
 
         world.addContinent(asia);
-        world.addContinent(europe;
+        world.addContinent(europe);
         world.addContinent(america);
 
         //When
         BigDecimal result = world.getPeopleQuantity();
-        boolean result = true;
+
         //Then
-        Assert.assertArrayEquals(true, result);
+        Assert.asse
     }
 }
