@@ -41,8 +41,8 @@ public class WorldTestSuite {
 
         //When
         BigDecimal result = world.getPeopleQuantity();
-
+        BigDecimal expected = BigDecimal.valueOf(1339000000).add(BigDecimal.valueOf(1386000000)).add(BigDecimal.valueOf(64040000)).add(BigDecimal.valueOf(37970000)).add(BigDecimal.valueOf(82790000)).add(BigDecimal.valueOf(67120000)).add(BigDecimal.valueOf(1000)).add(BigDecimal.valueOf(325700000)).add(BigDecimal.valueOf(36710000));
         //Then
-        Assert.asse
+        Assert.assertEquals(expected, result);
     }
 }
