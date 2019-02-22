@@ -8,13 +8,18 @@ public class AdvStatistics {
     private double avgCommentsOfUser;
     private double avgCommentsOfPost;
 
-    public void calculateAdvStatistics(Statistics statistics){
+    public boolean calculateAdvStatistics(Statistics statistics){
         this.numberOfUsers = statistics.usersNames().size();
         this.numberOfPosts = statistics.postsCount();
         this.numberOfComments = statistics.commentsCount();
-        this.avgPostsOfUser = (double) this.numberOfPosts / this.numberOfUsers;
-        this.avgCommentsOfUser = (double) this.numberOfComments / this.numberOfUsers;
-        this.avgCommentsOfPost = (double) this.numberOfComments / this.numberOfPosts;
+        if( numberOfUsers != 0) {
+            this.avgPostsOfUser = this.numberOfPosts / this.numberOfUsers;
+            this.avgCommentsOfUser = this.numberOfComments / this.numberOfUsers;
+        }
+        if( numberOfPosts != 0) {
+            this.avgCommentsOfPost = this.numberOfComments / this.numberOfPosts;
+        }
+        return true;
     }
 
     public int getNumberOfUsers() {
