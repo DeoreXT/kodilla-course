@@ -8,16 +8,21 @@ public class RpsRunner {
         game.printInfo();
 
         while(!end) {
-            game.playGame();
-            game.printResult();
-            if (game.printMenu() == 'x')
+            char result = game.playGame();
+            if (result == 'x')
                 end = game.confirmation();
+            else if (result == 'n')
+                game.initGame();
             else {
-                if (game.confirmation())
-                    game.initGame();
+                game.printResult();
+                if (game.printMenu() == 'x')
+                    end = game.confirmation();
+                else {
+                    if (game.confirmation())
+                        game.initGame();
+                }
             }
         }
-
         System.out.println("\n<<< END GAME >>>");
     }
 }
