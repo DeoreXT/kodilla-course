@@ -101,7 +101,6 @@ public class Game{
             }
             i++;
         } while (i <= roundCount);
-        System.out.println(this.userMpve());
         return '0';
     }
 
