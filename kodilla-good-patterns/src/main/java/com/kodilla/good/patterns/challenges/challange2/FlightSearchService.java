@@ -8,7 +8,7 @@ public class FlightSearchService {
     }
 
     public SearchFlightDto process(final FlightRequest flightRequest) {
-        boolean isFound = searchFlight.Search(flightRequest.getFromCity(), flightRequest.getToCity());
+        boolean isFound = searchFlight.Search(flightRequest.getFromCity());
 
         if (isFound) {
             return new SearchFlightDto(flightRequest.getFromCity(), flightRequest.getToCity(), true);

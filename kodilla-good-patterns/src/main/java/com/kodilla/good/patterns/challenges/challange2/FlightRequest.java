@@ -1,7 +1,5 @@
 package com.kodilla.good.patterns.challenges.challange2;
 
-import com.kodilla.good.patterns.challenges.challange2.City;
-
 public class FlightRequest {
     private City fromCity;
     private City toCity;
