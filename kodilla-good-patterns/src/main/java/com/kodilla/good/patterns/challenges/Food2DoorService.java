@@ -8,10 +8,9 @@ public class Food2DoorService {
     }
 
     public OrderExecutionDto process(final SupplyRequest sr) {
-        boolean isOrdered = orderExecution.order(sr.getProducer(), sr.getProductType(), sr.getQuantity());
+        boolean isOrdered = orderExecution.process(sr.getProducer(), sr.getProductType(), sr.getQuantity());
 
         if (isOrdered) {
-
             return new OrderExecutionDto(sr.getProducer(), true);
         } else {
             return new OrderExecutionDto(sr.getProducer(), false);
